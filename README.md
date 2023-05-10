@@ -1,5 +1,9 @@
 # Dijkstra's Algorithm
-This is my implementation of Dijkstra's algorithm for finding the shortest distance path. This was a project for my data structures class that I took in spring of 2023.
+This is my implementation of Dijkstra's algorithm for finding the shortest distance path in a graph data structure. 
+
+This was a project for my data structures class that I took in spring of 2023.
+
+
 Some of the code was given to us from our textbook, however I had to change a good portion of it to fit how I was implementing the code and problem as a whole.
 
 # To run the program
